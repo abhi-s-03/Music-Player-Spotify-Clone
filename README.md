@@ -12,7 +12,7 @@ git clone https://github.com/abcet/Music-Player-Spotify-Clone.git
 
 Website is live at:
 ``````
-https://abcet.github.io/Music-Player-Spotify-Clone/
+https://abhi-s-03.github.io/Music-Player-Spotify-Clone
 ``````
 
 ## Features
